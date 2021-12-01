@@ -2,7 +2,7 @@
 # Date: 12/1/2021
 # Description: This program is a 2 player game. As the program runs, one player will ask a series of questions for the
 # second player to answer while the first player inputs those responses to the appropriate questions. The final output
-# will be displayed at the end of the game with an option quit or to keep playing.
+# will be displayed at the end of the game with an option to quit or to keep playing.
 
 while True:
     print('''
